@@ -14,3 +14,5 @@
 
 -> Creating new events with Event Constructor and Custom events with CustomEvent constructor. element.dispatchEvent(event) for dispatching the our custom event.
 
+-> Filled my knowledge holes about git with https://learngitbranching.js.org/, didnt complete the entire lesson but learnt about heads, parents, branching, checking out, merging, rebasing, revert for online and reset for local repos.
+
